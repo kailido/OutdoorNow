@@ -1,0 +1,99 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+  font-family: 'Lato', sans-serif;
+  background-color: #987456;
+}
+
+.formDiv {
+  margin: 25px;
+  border-radius: 20px;
+  background-color: #FFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 350px;
+}
+
+.form{
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+}
+
+.signup {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 1rem;
+  min-height: 100vh;
+  font-family: 'Lato', sans-serif;
+  background-color: #987456;
+}
+
+.backDiv {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.homeMain {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0;
+  min-height: 100vh;
+  font-family: 'Lato', sans-serif;
+  background-color: #987456;
+}
+
+.homeTopBar {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #433326;
+}
+
+.homeMainBox {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.halfBox {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profileMainBox {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.textBox {
+  background: #fff;
+}

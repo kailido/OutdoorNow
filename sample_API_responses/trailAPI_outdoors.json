@@ -1,0 +1,606 @@
+{
+    "19890": {
+      "name": "Bamberton Provincial Park",
+      "city": "Mill Bay",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "A 1.5 km trail connects the campground to the beach at the day-use area. This trail is steep in parts. The route from the day-use parking lot to the beach is wheelchair accessible and paved. For your own safety and preservation of the park, obey posted signs and keep to designated trails. Shortcutting trails destroy plant life and soil structure.",
+      "directions": "The park is located on southern Vancouver Island, approximately 45 km north of Victoria off Highway 1. Turn east off Highway 1 onto Mill Bay Road, near the north end of the scenic Malahat Drive. BC Ferries offers service from Mill Bay to Brentwood Bay, a distance of 8 km by sea with a crossing time of 25 minutes. Bamberton Park is located a 5-minute drive south of Mill Bay. Nearby communities include: Mill Bay, Shawnigan Lake, Cobble Hill, Duncan, Victoria.",
+      "lat": "48.6041",
+      "lon": "-123.5272",
+      "parent_id": "0",
+      "place_id": "19890",
+      "activities": {
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=6325",
+          "length": "0",
+          "description": "A 1.5 km trail connects the campground to the beach at the day-use area. This trail is steep in parts. The route from the day-use parking lot to the beach is wheelchair accessible and paved. For your own safety and preservation of the park, obey posted signs and keep to designated trails. Shortcutting trails destroy plant life and soil structure.",
+          "name": "Bamberton Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "0"
+          },
+          "place_activity_id": "951753"
+        },
+        "camping": {
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=9539",
+          "length": "3",
+          "description": "For years the warm waters surrounding Vancouver Island's Mill Bay have been a popular destination for local salmon fishers. The inviting water and the 225-metre long sandy beach have also made nearby Bamberton Provincial Park an ideal spot for parents to bring their families. While the kids frolic in the warm waves, parents can lounge in the sand and enjoy the views across the inlet - to the east are the shores of the Saanich Peninsula, with the southern Gulf Islands and Mt. Baker beyond. Rising sharply to the west are the mountains of south Vancouver Island.",
+          "name": "Bamberton Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "6",
+          "activity_type_name": "camping",
+          "attribs": {
+            "length": "3"
+          },
+          "place_activity_id": "961795"
+        }
+      }
+    },
+    "19902": {
+      "name": "Bellhouse Provincial Park",
+      "city": "Galiano Island",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "Bellhouse Provincial Park is a day-use park on Galiano Island Located on Burril Point, this park offers hiking, canoeing, kayaking and fishing for visitors to enjoy!",
+      "directions": "Bellhouse Provincial Park is located 1 km west of Sturdies Bay on Galiano Island in the southern Gulf Islands. Galiano Island can be reached via BC Ferry service from Swartz Bay north of Victoria (approximately 1 hour). Once on Galiano head north on Sturdies Bay Road, turn left Burrill Road, then left again on Jack Road until you reach the park.",
+      "lat": "48.8731",
+      "lon": "-123.3143",
+      "parent_id": "0",
+      "place_id": "19902",
+      "activities": {
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=5831",
+          "length": "0",
+          "description": "Bellhouse Provincial Park is a day-use park on Galiano Island Located on Burril Point, this park offers hiking, canoeing, kayaking and fishing for visitors to enjoy!",
+          "name": "Bellhouse Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "0"
+          },
+          "place_activity_id": "951255"
+        }
+      }
+    },
+    "19922": {
+      "name": "Bodega Ridge Provincial Park",
+      "city": "Galiano Island",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "A 4 km trail through the park is accessible via Cottage Way. This trail leads uphill along the top of Bodega Ridge, through the forested area and along the cliff edge, ending at the northern boundary of the park. A large portion of this hike is uphill with the remaining portion adjacent to the cliff edge. The top of the ridge can be reached in approximately 30 minutes. Please stay on designated trail and away from cliff edge. Please respect vegetation in the area as it is sensitive to human disturbance.",
+      "directions": "Bodega Ridge Provincial Park is located on Galiano Island in the southern Gulf Islands. Galiano Island can be reached via BC Ferry service from Swartz Bay north of Victoria (approximately 1 hour). The park is situated approximately three-quarters of the way along the island from the ferry terminal and is accessible by Cottage Way from Porlier Pass Road.",
+      "lat": "48.9575",
+      "lon": "-123.5411",
+      "parent_id": "0",
+      "place_id": "19922",
+      "activities": {
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=6985",
+          "length": "4",
+          "description": "A 4 km trail through the park is accessible via Cottage Way. This trail leads uphill along the top of Bodega Ridge, through the forested area and along the cliff edge, ending at the northern boundary of the park. A large portion of this hike is uphill with the remaining portion adjacent to the cliff edge. The top of the ridge can be reached in approximately 30 minutes. Please stay on designated trail and away from cliff edge. Please respect vegetation in the area as it is sensitive to human disturbance.",
+          "name": "Bodega Ridge Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "4"
+          },
+          "place_activity_id": "952392"
+        }
+      }
+    },
+    "19938": {
+      "name": "Bright Angel Park",
+      "city": "Cowichan",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "Bright Angel Park offers plenty of opportunities for outdoor lovers in British Columbia. There are plenty of winding trails through the woods here so hiking and trail running are not in short supply. Other activities include swimming, canoeing, boating, kayaking and camping.",
+      "directions": "Head west off of Trans-Canada Highway onto Koksilah Rd. and take a right onto Tigwell Rd.",
+      "lat": "48.7332",
+      "lon": "-123.6857",
+      "parent_id": "0",
+      "place_id": "19938",
+      "activities": {
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=5851",
+          "length": "0",
+          "description": "Bright Angel Park offers plenty of opportunities for outdoor lovers in British Columbia. There are plenty of winding trails through the woods here so hiking and trail running are not in short supply. Other activities include swimming, canoeing, boating, kayaking and camping.",
+          "name": "Bright Angel Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "0"
+          },
+          "place_activity_id": "951275"
+        },
+        "camping": {
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=9172",
+          "length": "3",
+          "description": "Bright Angel Park offers plenty of opportunities for outdoor lovers in British Columbia. There are plenty of winding trails through the woods here so hiking and trail running are not in short supply. Other activities include swimming, canoeing, boating, kayaking and camping.",
+          "name": "Bright Angel Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "6",
+          "activity_type_name": "camping",
+          "attribs": {
+            "length": "3"
+          },
+          "place_activity_id": "961437"
+        }
+      }
+    },
+    "19984": {
+      "name": "Chemainus River Provincial Park",
+      "city": "Duncan",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "Chemainus River Provincial Park is a smaller, 294-acre provincial park on southern Vancouver Island. There are recreational opportunities here for hiking, swimming, canoeing, kayaking, fishing, horseback riding and mountain biking.",
+      "directions": "The nearest cities or towns are Duncan and Cowichan.",
+      "lat": "48.8378",
+      "lon": "-123.8360",
+      "parent_id": "0",
+      "place_id": "19984",
+      "activities": {
+        "mountain biking": {
+          "url": "http://www.singletracks.com/item.php?c=1&i=6694",
+          "length": "0",
+          "description": "Chemainus River Provincial Park is a smaller, 294-acre provincial park on southern Vancouver Island. There are recreational opportunities here for hiking, swimming, canoeing, kayaking, fishing, horseback riding and mountain biking.",
+          "name": "Chemainus River Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "5",
+          "activity_type_name": "mountain biking",
+          "attribs": {
+            "length": "0",
+            "nightride": "null"
+          },
+          "place_activity_id": "942176"
+        },
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=6733",
+          "length": "0",
+          "description": "Chemainus River Provincial Park is a smaller, 294-acre provincial park on southern Vancouver Island. There are recreational opportunities here for hiking, swimming, canoeing, kayaking, fishing, horseback riding and mountain biking.",
+          "name": "Chemainus River Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "0"
+          },
+          "place_activity_id": "952144"
+        }
+      }
+    },
+    "20033": {
+      "name": "Cowichan River Provincial Park",
+      "city": "Duncan",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "Bicycles must keep to roadways or the Trans-Canada Trail. Bicycles are not permitted on developed hiking trails. Bicycle helmets are mandatory in British Columbia.",
+      "directions": "Skutz Falls Road/West Access: Located off Highway 18, Skutz Falls Road provides access to Skutz Falls day-use area, Horseshoe Bend Group Campsite, Marie Canyon day-use area and the Skutz Falls Trailhead of the Cowichan River Trail. Follow signs from Skutz Falls Road via Cowichan Lake Road and Mayo Road to Riverbottom Road.  Highway 18 Connector/Middle Access: Located off Highway 18, the Highway 18 Connector provides access to the Stoltz Pool campground, group campsite and day-use areas. Follow signs to Riverbottom Road.  Robertson Road/South East Access: Located on Robertson Road in the Glenora area south of Duncan. To access this point proceed west on Glenora Road, turn right onto Vaux Road and continue down Vaux Road, as it leads into Robertson Road. This provides access to the Glenora Trailhead of the Cowichan River Trail.",
+      "lat": "48.7673",
+      "lon": "-123.8868",
+      "parent_id": "0",
+      "place_id": "20033",
+      "activities": {
+        "mountain biking": {
+          "url": "http://www.singletracks.com/item.php?c=1&i=6575",
+          "length": "0",
+          "description": "Bicycles must keep to roadways or the Trans-Canada Trail. Bicycles are not permitted on developed hiking trails. Bicycle helmets are mandatory in British Columbia.",
+          "name": "Cowichan River Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "5",
+          "activity_type_name": "mountain biking",
+          "attribs": {
+            "length": "0",
+            "nightride": "null"
+          },
+          "place_activity_id": "942070"
+        },
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=6491",
+          "length": "41",
+          "description": "A maze of developed and undeveloped routes offers significant walking and hiking opportunities in and around Cowichan River Provincial Park.",
+          "name": "Cowichan River Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "41"
+          },
+          "place_activity_id": "951910"
+        },
+        "camping": {
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=9666",
+          "length": "3",
+          "description": "If it's outdoor recreation you're after, Cowichan River Provincial Park on southern Vancouver Island is the place to go. Whether you want to go swimming, canoeing, white-water kayaking, tubing, camping, fishing or hiking, or just want to take it easy in the sun, you're bound to find something to do in this &quot;recreation corridor&quot; south of Duncan. This spectacular park protects significant stretches of the Cowichan River, a recently designated Provincial Heritage River internationally renowned for its wild salmon and steelhead fishery.",
+          "name": "Cowichan River Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "6",
+          "activity_type_name": "camping",
+          "attribs": {
+            "length": "3"
+          },
+          "place_activity_id": "961909"
+        }
+      }
+    },
+    "20059": {
+      "name": "Dionisio Point Provincial Park",
+      "city": "Galiano Island",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "Bicycles are permitted on some trails as identified on the park maps. Bicycles must remain on these identified trails and roadways. Bicycle helmets are mandatory in British Columbia.",
+      "directions": "Dionisio Point Park is located on the northeast tip of Galiano Island overlooking Porlier Pass in the southern Gulf Islands. Access to the park is by boat only. Boaters can reference marine chart #3442, #3461, #3443 and #3473 for more information on this area.",
+      "lat": "48.9979",
+      "lon": "-123.5666",
+      "parent_id": "0",
+      "place_id": "20059",
+      "activities": {
+        "mountain biking": {
+          "url": "http://www.singletracks.com/item.php?c=1&i=6444",
+          "length": "0",
+          "description": "Bicycles are permitted on some trails as identified on the park maps. Bicycles must remain on these identified trails and roadways. Bicycle helmets are mandatory in British Columbia.",
+          "name": "Dionisio Point Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "5",
+          "activity_type_name": "mountain biking",
+          "attribs": {
+            "length": "0",
+            "nightride": "null"
+          },
+          "place_activity_id": "941949"
+        },
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=6192",
+          "length": "0",
+          "description": "The park offers a number of hiking opportunities on trails leading through the forest and along the shoreline. Information shelters at the camping areas contain maps of park trails, which are maintained on a regular basis. For your own safety and the preservation of the park, obey posted signs and keep to designated trails. Shortcutting trails destroys plant life and soil structure.",
+          "name": "Dionisio Point Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "0"
+          },
+          "place_activity_id": "951615"
+        }
+      }
+    },
+    "20060": {
+      "name": "Discovery Island Marine Provincial Park",
+      "city": "Victoria",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "One main trail provides a junction to reach various points in the park - head east to visit the area around the lighthouse; head west to visit the open grass fields and rocky shoreline. Designated trails provide access to the area around the lighthouse to the east and to the open grass fields to the west of the park. Please remain within the park boundary - the area to the north of the boundary is private First Nations land and is not open to the public.",
+      "directions": "Discovery Island Marine Provincial Park is located two nautical miles east of Victoria on southern Vancouver Island. Access to the park is by boat only; the nearest boat launch is located at Cattle Point in Oak Bay, Victoria. Boaters can reference marine chart #3424, #3440 and #3461 for more information on this area.",
+      "lat": "48.4548",
+      "lon": "-123.2661",
+      "parent_id": "0",
+      "place_id": "20060",
+      "activities": {
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=6475",
+          "length": "0",
+          "description": "One main trail provides a junction to reach various points in the park - head east to visit the area around the lighthouse; head west to visit the open grass fields and rocky shoreline. Designated trails provide access to the area around the lighthouse to the east and to the open grass fields to the west of the park. Please remain within the park boundary - the area to the north of the boundary is private First Nations land and is not open to the public.",
+          "name": "Discovery Island Marine Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "0"
+          },
+          "place_activity_id": "951895"
+        },
+        "camping": {
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=9649",
+          "length": "3",
+          "description": "Discovery Island Marine Provincial Park has one designated camping area that offers open field camping. Fees apply for overnight camping and are payable at self registration vaults, located at the information shelter. The camping area is located just southwest of Pandora Hill. The use of onsite food caches for all foodstuffs and fragrant items is MANDATORY. Please practice &quot;Leave No Trace&quot; camping ethics. Garbage facilities are not provided; visitors must pack out all of their garbage.",
+          "name": "Discovery Island Marine Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "6",
+          "activity_type_name": "camping",
+          "attribs": {
+            "length": "3"
+          },
+          "place_activity_id": "961894"
+        }
+      }
+    },
+    "20125": {
+      "name": "French Beach Provincial Park",
+      "city": "Sooke",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "Approximately 2 kilometres of maintained hiking trails travel through the park. Trails lead through salt marsh and second-growth forest of Douglas fir, Sitka spruce, Western hemlock and Western red cedar, connecting with shoreline walks along the beautiful beach. This trail system is accessible from the day use area and the campground. For your own safety and the preservation of the park, obey posted signs and keep to designated trails. Shortcutting trails destroys plant life and soil structure.",
+      "directions": "French Beach Provincial Park is located on the west coast of southern Vancouver Island. The park can be accessed via Hwy 14, 20 km west of Sooke. Directional signs are posted. The park is located approximately 11 km from Jordan River. Nearest communities, towns or cities are Sooke, Jordan River, Port Renfrew, Victoria.",
+      "lat": "48.3950",
+      "lon": "-123.9423",
+      "parent_id": "0",
+      "place_id": "20125",
+      "activities": {
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=6067",
+          "length": "2",
+          "description": "Approximately 2 kilometres of maintained hiking trails travel through the park. Trails lead through salt marsh and second-growth forest of Douglas fir, Sitka spruce, Western hemlock and Western red cedar, connecting with shoreline walks along the beautiful beach. This trail system is accessible from the day use area and the campground. For your own safety and the preservation of the park, obey posted signs and keep to designated trails. Shortcutting trails destroys plant life and soil structure.",
+          "name": "French Beach Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "2"
+          },
+          "place_activity_id": "951491"
+        }
+      }
+    },
+    "20143": {
+      "name": "Gordon Bay Provincial Park",
+      "city": "Honeymoon Bay",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "Gordon Bay has a number of short, in-park trails that lead to the lake. For your own safety and the preservation of the park, obey posted signs and keep to designated trails. Shortcutting trails destroys plant life and soil structure.",
+      "directions": "Gordon Bay Provincial Park is located 35 km northwest of Duncan on southern Vancouver Island. The park, situated on the shores of Cowichan Lake, is accessed via Hwy #18 off Hwy #1. Travel 26 km west on Hwy #18 to Lake Cowichan, then 14 km on South Shore Road. Nearby communities include: Honeymoon Bay, Cowichan Lake, Youbou, Duncan, Victoria.",
+      "lat": "48.8344",
+      "lon": "-124.1966",
+      "parent_id": "0",
+      "place_id": "20143",
+      "activities": {
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=5880",
+          "length": "0",
+          "description": "Gordon Bay has a number of short, in-park trails that lead to the lake. For your own safety and the preservation of the park, obey posted signs and keep to designated trails. Shortcutting trails destroys plant life and soil structure.",
+          "name": "Gordon Bay Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "0"
+          },
+          "place_activity_id": "951303"
+        }
+      }
+    },
+    "20144": {
+      "name": "Gowlland Tod Provincial Park",
+      "city": "Brentwood Bay",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "Gowlland Tod Provincial Park is a 3,012.21-acre park on South Vancouver Island. This park protects an important part of the Gowlland Range which is one of the last remaining natural areas in Greater Victoria. Activities here include hiking, swimming, canoeing, kayaking, mountain biking and horseback riding.",
+      "directions": "The park is located on the east side of Saanich Inlet on Southern Vancouver Island. There are three park accesses: Tod Inlet, Mackenzie Bight and Caleb Pike.&lt;br /&gt;&lt;br /&gt;The Tod Inlet access is located near Brentwood Bay, off Wallace Drive; Mackenzie Bight access is located off Rossdurrance Road, off Willis Point Road; the Caleb Pike access is on Caleb Pike Road, off Millstream Road near Langford. Gowlland Tod Park can also be accessed by boat via Tod Inlet.",
+      "lat": "48.5420",
+      "lon": "-123.5237",
+      "parent_id": "0",
+      "place_id": "20144",
+      "activities": {
+        "mountain biking": {
+          "url": "http://www.singletracks.com/item.php?c=1&i=6485",
+          "length": "15",
+          "description": "Gowlland Tod Provincial Park is a 3,012.21-acre park on South Vancouver Island. This park protects an important part of the Gowlland Range which is one of the last remaining natural areas in Greater Victoria. Activities here include hiking, swimming, canoeing, kayaking, mountain biking and horseback riding.",
+          "name": "Gowlland Tod Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "5",
+          "activity_type_name": "mountain biking",
+          "attribs": {
+            "length": "15",
+            "nightride": "null"
+          },
+          "place_activity_id": "941989"
+        },
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=6284",
+          "length": "15",
+          "description": "Gowlland Tod Provincial Park is a 3,012.21-acre park on South Vancouver Island. This park protects an important part of the Gowlland Range which is one of the last remaining natural areas in Greater Victoria. Activities here include hiking, swimming, canoeing, kayaking, mountain biking and horseback riding.",
+          "name": "Gowlland Tod Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "15"
+          },
+          "place_activity_id": "951711"
+        }
+      }
+    },
+    "20199": {
+      "name": "John Dean Provincial Park",
+      "city": "Sidney",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "John Dean Provincial Park has approximately 6 km of hiking trails, ranging from easy walks to more difficult hikes through beautiful old-growth Douglas fir and Garry oak ecosystems. A main park map is located at the information shelter, as well as trail maps at various points along the trail system. Portions of the trail system can be steep and are geared to more advanced hikers. Refer to park map for more information and routes.",
+      "directions": "John Dean Provincial Park is located near Sidney on southern Vancouver Island. The park can be accessed off Hwy #17. Turn west onto McTavish Road, south onto East Saanich Road, then west onto John Dean Road. Follow John Dean Road until you reach the park.",
+      "lat": "48.6136",
+      "lon": "-123.4450",
+      "parent_id": "0",
+      "place_id": "20199",
+      "activities": {
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=7166",
+          "length": "6",
+          "description": "John Dean Provincial Park has approximately 6 km of hiking trails, ranging from easy walks to more difficult hikes through beautiful old-growth Douglas fir and Garry oak ecosystems. A main park map is located at the information shelter, as well as trail maps at various points along the trail system. Portions of the trail system can be steep and are geared to more advanced hikers. Refer to park map for more information and routes.",
+          "name": "John Dean Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "6"
+          },
+          "place_activity_id": "952567"
+        }
+      }
+    },
+    "20239": {
+      "name": "Koksilah River Provincial Park",
+      "city": "Shawnigan Lake",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "Koksilah River Park has no developed trails, however there are a number of good existing routes that lead to the river and throughout the forest and park.",
+      "directions": "Koksilah River Provincial Park is located 7 km west of Shawnigan Lake, on Southern Vancouver Island. Turn west off Hwy #1 at Shawnigan/Mill Bay Road in Mill Bay. Follow the road to Shawnigan Lake, then turn right onto Shawnigan Lake Road. Renfrew Road, a logging road, provides access to the park. Nearby communities include Shawnigan Lake, Cowichan Bay, Mill Bay and Duncan.",
+      "lat": "48.6424",
+      "lon": "-123.7440",
+      "parent_id": "0",
+      "place_id": "20239",
+      "activities": {
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=6657",
+          "length": "0",
+          "description": "Koksilah River Park has no developed trails, however there are a number of good existing routes that lead to the river and throughout the forest and park.",
+          "name": "Koksilah River Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "0"
+          },
+          "place_activity_id": "952071"
+        }
+      }
+    },
+    "20301": {
+      "name": "Montague Harbour Marine Provincial Park",
+      "city": "Galiano Island",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "Montague Harbour Marine Provincial Park is a very small park consisting of only a little over 200 acres. However, because it sits on the Trincomali Channel there is plenty of room for hiking, swimming, boating, canoeing, kayaking, fishing, mountain biking and camping.",
+      "directions": "Montague Harbour Marine Provincial Park is located on the southwest side of Galiano Island approximately 10 km northwest of Sturdies Bay. BC Ferries provides vehicle and passenger service to Sturdies Bay from Swartz Bay on Vancouver Island and from Tsawwassen, south of Vancouver. The park is located on Montague Park Road; follow signs to the park from the ferry terminal. Boaters can reference marine chart #3442, #3462, #3463 and #3473 for more information on this area.",
+      "lat": "48.9021",
+      "lon": "-123.4016",
+      "parent_id": "0",
+      "place_id": "20301",
+      "activities": {
+        "mountain biking": {
+          "url": "http://www.singletracks.com/item.php?c=1&i=6520",
+          "length": "0",
+          "description": "Montague Harbour Marine Provincial Park is a very small park consisting of only a little over 200 acres. However, because it sits on the Trincomali Channel there is plenty of room for hiking, swimming, boating, canoeing, kayaking, fishing, mountain biking and camping.",
+          "name": "Montague Harbour Marine Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "5",
+          "activity_type_name": "mountain biking",
+          "attribs": {
+            "length": "0",
+            "nightride": "null"
+          },
+          "place_activity_id": "942023"
+        },
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=6354",
+          "length": "0",
+          "description": "Montague Harbour Marine Provincial Park is a very small park consisting of only a little over 200 acres. However, because it sits on the Trincomali Channel there is plenty of room for hiking, swimming, boating, canoeing, kayaking, fishing, mountain biking and camping.",
+          "name": "Montague Harbour Marine Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "0"
+          },
+          "place_activity_id": "951782"
+        }
+      }
+    },
+    "20313": {
+      "name": "Mount Erskine Provincial Park",
+      "city": "Victoria",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "Three trails lead to Mount Erskine Provincial Park from surrounding private lands.",
+      "directions": "Mount Erskine Provincial Park is located on Salt Spring Island, in the southern Gulf Islands. BC Ferries offers service to Salt Spring Island from Victoria (Swartz Bay) and Crofton on Vancouver Island, and Vancouver (Tsawwassen).",
+      "lat": "48.8469",
+      "lon": "-123.5503",
+      "parent_id": "0",
+      "place_id": "20313",
+      "activities": {
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=6337",
+          "length": "0",
+          "description": "Three trails lead to Mount Erskine Provincial Park from surrounding private lands.",
+          "name": "Mount Erskine Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "0"
+          },
+          "place_activity_id": "951765"
+        }
+      }
+    },
+    "20317": {
+      "name": "Mount Maxwell Provincial Park",
+      "city": "Salt Spring Island",
+      "state": "British Columbia",
+      "country": "Canada",
+      "description": "Mount Maxwell Provincial Park offers a number of walking/hiking opportunities with spectacular views. Approximately 6 km of maintained trails all start at the parking lot and range from easy strolls to more demanding hikes. Trails to the north and east travel through wooded areas of old-growth and second-growth Douglas fir. The trail to the west follows along the ridge of Mount Maxwell and links up with the park entrance road approximately 2 km from the parking lot. Excellent views can be had from various points along the trails, particularly at Baynes Peak, Salt Spring Island's highest point. From here visitors can get a panoramic look at Vancouver Island, the surrounding Gulf Islands and the mainland of British Columbia.",
+      "directions": "Mount Maxwell Provincial Park is located on Salt Spring Island, in the southern Gulf Islands. BC Ferries offers service to Salt Spring Island from Victoria (Swartz Bay) and Crofton on Vancouver Island, and Vancouver (Tsawwassen). From the Salt Spring ferry terminal, head south on the Fulford Ganges Road to Cranberry Road. Turn left at the junction with Mount Maxwell Road and continue slowly on the rough road to the park. This gravel road is steep and narrow and bumpy; caution should be taken when traveling this road.",
+      "lat": "48.8042",
+      "lon": "-123.5191",
+      "parent_id": "0",
+      "place_id": "20317",
+      "activities": {
+        "hiking": {
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=7025",
+          "length": "6",
+          "description": "Mount Maxwell Provincial Park offers a number of walking/hiking opportunities with spectacular views. Approximately 6 km of maintained trails all start at the parking lot and range from easy strolls to more demanding hikes. Trails to the north and east travel through wooded areas of old-growth and second-growth Douglas fir. The trail to the west follows along the ridge of Mount Maxwell and links up with the park entrance road approximately 2 km from the parking lot. Excellent views can be had from various points along the trails, particularly at Baynes Peak, Salt Spring Island's highest point. From here visitors can get a panoramic look at Vancouver Island, the surrounding Gulf Islands and the mainland of British Columbia.",
+          "name": "Mount Maxwell Provincial Park",
+          "rank": "0",
+          "rating": "0.00",
+          "thumbnail": "",
+          "activity_type": "2",
+          "activity_type_name": "hiking",
+          "attribs": {
+            "length": "6"
+          },
+          "place_activity_id": "952431"
+        }
+      }
+    }
+  }

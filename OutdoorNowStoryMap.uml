@@ -1,0 +1,36 @@
+# labels: USER ACTIVITIES, USER TASKS, USER STORIES, RELEASE1, RELEASE2, RELEASE3
+# release1: Mar 19th, 2023
+# release2: April 9th, 2023
+Account Config: |{"font_size":10}
+    Select from a checklist of supported activities: |{"font_size":10}
+        ID 4: As a new user, I want to be able to easily select my preferred activities and personalize my profile so that I can start planning my outdoor activities.: |{"font_size":10,"size":[0,53]}
+    Setting skill level: |{"font_size":10}
+        ID 2: As a frequent hiker, I want the ability to search for hiking trails based on difficulty level so that I can avoid exceeding my ability level and stay safe.: |{"font_size":10,"size":[5,44]}
+            ID 5: As a frequent mountain biker, I want the ability to search for hiking trails based on difficulty level so that I can avoid exceeding my ability level and stay safe.: |{"font_size":10,"size":[1,60]}
+    Setting acceptable weather conditions per activity: |{"font_size":10}
+        ID 12: As a user I want to have activities recommended to me based on weather so I can spend less time checking my weather apps. |{"font_size":10,"size":[1,28]}
+        ID 3: As a frequent hiker, I want the ability to search for hiking trails based on weather conditions so that I can avoid hiking in bad weather.: |{"pos":[0,17],"font_size":10,"size":[8,41]}
+            ID 16: As a frequent mountain biker, I want the ability to search for biking trails based on weather conditions so that I can avoid biking in bad weather.: |{"pos":[3,35],"font_size":10,"size":[3,78]}
+    Setting availability of schedule to plan activity: |{"font_size":10}
+            ID 9: As a busy full-time worker, I want to quickly plan a weekend hike with friends, so I can make the most of my free time and get outdoors.: |{"pos":[6,175],"font_size":10,"size":[-1,33]}
+Selecting preferred location: |{"font_size":10}
+    Prompt asking to use the users current location: |{"font_size":10}
+        ID 1: As a frequent hiker, I want the ability to search for hiking trails based on my preferred location so that I can find the perfect trail for my next outdoor activity.|{"font_size":10,"size":[0,37]}: |{"pos":[4,-3],"font_size":10,"size":[-1,15]}
+        ID 1.2: As a frequent mountain biker, I want the ability to search for biking trails based on my preferred location so that I can find the perfect trail for my next outdoor activity.: |{"pos":[10,8],"font_size":10,"size":[-3,66]}
+    Picking a radius around users current location or selected location: |{"font_size":10}
+        ID 11: As an active individual I do not want to travel too far to access my favourite activities.: |{"font_size":10}
+            ID 7: As a new resident of BC, I want to have access to activity locations in my area, so I can explore the outdoors of my new home. |{"font_size":10,"size":[-2,24]}
+            ID 10.1: As an avid traveller, I want to plan a trip through BC and find outdoor activities along my route, so I can make the most of my exciting vacation: |{"pos":[2,29],"font_size":10,"size":[-2,47]}
+Viewing potential spots for their activity: |{"pos":[-1,3],"font_size":10}
+    Selecting the spot for the activity within the radius: |{"pos":[1,4],"font_size":10}
+        ID 1: As a frequent hiker, I want the ability to search for hiking trails based on my preferred location so that I can find the perfect trail for my next outdoor activity: |{"font_size":10}
+            ID 7: As a new resident of BC, I want to have access to activity locations in my area, so I can explore the outdoors of my new home: |{"font_size":10,"size":[0,49]}
+    Presentation of difficulty for each spot |{"pos":[4,3],"font_size":10}
+            ID 2: As a frequent hiker, I want the ability to search for hiking trails based on difficulty level so that I can avoid exceeding my ability level and stay safe: |{"font_size":10,"size":[2,43]}
+            ID 5: As a frequent mountain biker, I want the ability to search for biking trails based on difficulty level so that I can avoid exceeding my ability level and stay safe.: |{"pos":[3,3],"font_size":10,"size":[2,53]}
+Selecting the spot and scheduling: |{"font_size":10}
+    Schedule from a list of potential days based on weather preferences and availability: |{"font_size":10}
+        ID 4: As a new user, I want to be able to easily select my preferred activities and personalize my profile so that I can start planning my outdoor activities.: |{"font_size":10}
+            ID 9: As a busy full-time worker, I want to quickly plan a weekend hike with friends, so I can make the most of my free time and get outdoors. |{"font_size":10,"size":[1,48]}
+    Check off if the user wants email notifications when weather changes for the scheduled activity: |{"font_size":10}
+            ID 14: As a busy person, I want to receive email notifications when the weather conditions change drastically, so I can reschedule my outdoor activities without hassle. |{"font_size":10,"size":[0,54]}

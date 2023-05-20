@@ -1,0 +1,52 @@
+{
+  "name": "outdoor-now",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "test": "jest --testPathIgnorePatterns '/__tests__/integration/|/__tests__/selenium/' --coverage --coverageDirectory='coverage'",
+    "integration": "jest --testPathPattern /__tests__/integration/* --coverage --coverageDirectory='integration_coverage'",
+    "selenium": "jest --testPathPattern /__tests__/selenium/* --coverage=false",
+    "cucumber-test": "cucumber-js --publish",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "coverageReporters": [
+      "json",
+      "lcov",
+      "text",
+      "html"
+    ]
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.12",
+    "@next/font": "13.1.6",
+    "@react-google-maps/api": "^2.18.1",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.1.6",
+    "formik": "^2.2.9",
+    "mui": "^0.0.1",
+    "next": "13.1.6",
+    "node-mocks-http": "^1.12.2",
+    "nodemailer": "^6.9.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sinon": "^15.0.3",
+    "yup": "^1.0.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.20.11",
+    "@cucumber/cucumber": "^9.0.1",
+    "chromedriver": "^111.0.0",
+    "hamjest": "^3.7.3",
+    "jest": "^29.4.3",
+    "node-mocks-http": "^1.12.2",
+    "selenium-webdriver": "^4.8.2"
+  }
+}

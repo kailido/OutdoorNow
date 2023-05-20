@@ -1,0 +1,40 @@
+[
+  {
+    "username": "testAdminUser123",
+    "password": "test_Password.1770",
+    "homeLocation": {
+      "lat": 48.47917293604235,
+      "long": -123.3254259732314
+    },
+    "favouriteActivities": [
+      "biking",
+      "hiking",
+      "skateboarding",
+      "skiing"
+    ],
+    "maxTravelRadius": 20
+  },
+  {
+    "username": "Elior",
+    "password": "test",
+    "homeLocation": {
+      "long": null,
+      "lat": null
+    },
+    "favouriteActivities": [],
+    "maxTravelRadius": null
+  },
+  {
+    "username": "charlie",
+    "password": "test",
+    "homeLocation": {
+      "long": null,
+      "lat": null
+    },
+    "favouriteActivities": [
+      "hiking",
+      "biking"
+    ],
+    "maxTravelRadius": null
+  }
+]
